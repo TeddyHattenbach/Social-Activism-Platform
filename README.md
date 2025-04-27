@@ -1,7 +1,7 @@
 # Social Activism Platform - Rebutify
 
 Rebutify is a website for activists to collaboratively optimize responses to anti-[social movement] arguments. 
-Rebutify’s first versions focus on smaller communities such as veganism and plans expansion into other movements. I contributed to the backend development with Python and Django and collaborated with two other developers.
+Rebutify’s first versions focus on smaller communities such as veganism and plans expansion into other movements. I am contributing to the backend development with Python and Django and collaborating with two other developers.
 
 ## Website:
 https://www.rebutify.org/
