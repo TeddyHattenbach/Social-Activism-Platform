@@ -1,4 +1,8 @@
-# Social Activism Platform
+# Social Activism Platform - Rebutify
+
+Rebutify is a website for activists to collaboratively optimize responses to anti-[social movement] arguments. 
+Rebutify’s first versions focus on smaller communities such as veganism and plans expansion into other movements.
+
 ## Website:
 https://www.rebutify.org/
 
