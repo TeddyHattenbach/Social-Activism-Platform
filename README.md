@@ -10,6 +10,6 @@ https://www.rebutify.org/
 https://github.com/Monstarrrr/rebutify
 
 ## Account I contributed with:
-https://github.com/th-software-developer
+https://github.com/rebutify-developer
 
 ![image](https://github.com/user-attachments/assets/8019520b-4e89-4847-be65-89f8d6279250)
