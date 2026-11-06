@@ -1,7 +1,7 @@
 # Social Activism Platform
 
-This website was for activists to collaboratively optimize responses to anti-[social movement] arguments. 
-Its first versions focused on smaller communities with plans to expand into other movements. I contributed to the backend development with Python and Django and worked with two other developers.
+This website is for activists to collaboratively optimize responses to anti-[social movement] arguments. 
+Its first versions focuses on smaller communities with plans to expand into other movements. I contributed to the backend development with Python and Django and worked with two other developers.
 
 ## Website:
 currently down and unavailable
